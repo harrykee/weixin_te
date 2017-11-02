@@ -1,0 +1,7 @@
+/* pages/wsper/wsper.wxss */
+.testee {
+  height: 200rpx;
+  width: 400rpx;
+  background-color:blueviolet;
+  display: flex;
+}
